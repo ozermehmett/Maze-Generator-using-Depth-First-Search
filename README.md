@@ -15,7 +15,8 @@ This script generates a maze by carving out passages and walls using a depth-fir
 To generate and visualize the maze, simply run the `maze_generator.py` script using Python:
 
 ## ScreenShots
-![Ekran görüntüsü 2023-08-17 174344](https://github.com/ozermehmett/Maze-Generator-using-Depth-First-Search/assets/115498182/c4b5492f-15f4-4648-bb4c-9f4b48656de0)
+![image](https://github.com/ozermehmett/Maze-Generator-using-Depth-First-Search/assets/115498182/6859ebc1-7a32-4f9b-88fb-534802b2f3ef)
+
 
 ## Did you find this repository helpful?
 Do not forget to give a start
